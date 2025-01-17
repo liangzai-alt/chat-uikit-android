@@ -1,4 +1,4 @@
-package com.tencent.qcloud.tim.demo.signature;
+package com.tencent.qcloud.tim.demo.signature;./gradlew assembleRelease
 
 import android.text.TextUtils;
 import android.util.Base64;
